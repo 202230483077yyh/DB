@@ -15,4 +15,4 @@ mysql -u root -p
 use A;
 
 
-
+注意：如果想全程用go语言，可以使用gorm。
